@@ -1,0 +1,3 @@
+[submodule "ClientLibraries"]
+	path = ClientLibraries
+	url = https://github.com/P2UX/ClientLibraries
